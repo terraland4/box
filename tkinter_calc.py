@@ -82,3 +82,5 @@ win.grid_rowconfigure(4, minsize=60)
 
 
 win.mainloop()
+
+# калькулятор почти готов
